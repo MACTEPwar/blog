@@ -1,0 +1,146 @@
+#site {
+	width: 90%;
+	margin: 10px 5% 10px 5%;
+	background: #E5E0DB;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.site_2 {
+	width: 90%;
+	margin: 10px 5% 10px 5%;
+	background: #4B0082;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+}
+
+.entry {
+	width: 90%;
+	margin: 10px 5% 10px 5%;
+	background: #4B0082;
+	border-radius: 5px;
+	padding: 10px;
+	border-color: blue;
+	border-width: 2px;
+	border-style: solid;
+}
+
+.head_p {
+	background: #4B0082;
+	font-size: 24px;
+	color: white;
+	border-radius: 5px;
+}
+
+.author-name {
+	display: inline;
+	
+
+  color: white;
+}
+
+.data {
+	display: inline;
+	float: right;
+		
+
+}
+
+.content {
+	background: #4B0082;
+	border-radius: 5px;
+	color: white;
+	margin-top:5px;
+}
+
+.comments {
+	text-align: right;
+	color: white;
+}
+
+.comment_full {
+	text-align: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 10px;
+	background: white;
+	border-radius: 5px;
+	color: black;
+}
+
+.comment_poligon {
+	
+	color: white;
+	width: 95%;
+}
+
+.full_data {
+	float: right;
+	display: inline;
+}
+
+.full_auth_n {
+	display: inline;
+}
+
+.back {
+
+}
+.add {
+
+}
+.back {
+	display: inline;
+	float: right;
+}
+textarea {
+	border-radius: 5px;
+}
+.back_btn {
+	margin-right: 15px;
+	border-radius: 5px;
+}
+
+.slider{
+    idth: 1094.5px;
+    width: 1094.5px;
+    height: 80px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px 5% 10px 5%;
+	background: #AFEEEE;
+	border-radius: 5px;
+	padding: 10px;
+	border-color: blue;
+	border-width: 2px;
+	border-style: solid;
+}
+.slidewrapper{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100px;
+    margin: 0;
+    padding: 0;    
+}
+.slide{
+    idth: 1117.5px;
+    width: 20%;
+    height: 100%;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: #ff0000;
+}
+.second{
+     background: #00ff00;   
+}
+.third{
+     background: #0000ff;   
+}
+
+.entry form {
+	color: white;
+}
